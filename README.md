@@ -70,5 +70,9 @@ The dashboard tracks the following key metrics:
 - Enhancing customer segmentation analysis.
 - Exploring integration with Power BI for advanced analytics.
 
+## 📊 BlinkIT Grocery Sales Dashboard
+
+![BlinkIT Grocery Sales Dashboard](https://github.com/vikash-48413/BlinkIT_Grocery_Sales_Analysis-EXCEL/blob/main/BlinkIT-Dashboard.png)
+
  
 🔗 **GitHub Repository:** 
