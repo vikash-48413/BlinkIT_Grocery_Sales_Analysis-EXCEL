@@ -74,5 +74,7 @@ The dashboard tracks the following key metrics:
 
 ![BlinkIT Grocery Sales Dashboard](https://github.com/vikash-48413/BlinkIT_Grocery_Sales_Analysis-EXCEL/blob/main/BlinkIT-Dashboard.png)
 
- 
-🔗 **GitHub Repository:** 
+## 📂 GitHub Repository  
+
+🔗 [BlinkIT Grocery Sales Analysis – Excel](https://github.com/vikash-48413/BlinkIT_Grocery_Sales_Analysis-EXCEL)
+
